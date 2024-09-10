@@ -60,6 +60,7 @@ setuptools.setup(
         "biopython",
         "tqdm",
         "kneed",
+	"h5py",
         "tabulate",
         "seaborn",
         "umap-learn",
